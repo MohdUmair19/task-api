@@ -71,5 +71,3 @@ mvn spring-boot:run
 mvn clean package
 java -jar target/task-api-1.0.0.jar
 ```
-
-3. Test the API using curl or Postman with the endpoints above.
